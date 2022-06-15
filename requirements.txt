@@ -1,0 +1,7 @@
+cmake
+dlib==19.18.0
+face-recognition
+numpy
+opencv-python
+PyQt-builder
+mysql.connector
